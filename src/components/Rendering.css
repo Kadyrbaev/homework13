@@ -1,0 +1,36 @@
+
+.add-wrap{
+    border: 1px solid;
+    width: 400px;
+    height: 500px;
+    margin-top: 40px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+.add-wrap img{
+    width: 250px;
+    border-radius: 20px;
+}
+.wrap-title{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.title{
+    width: 70%;
+}
+.id{
+    border: 2px solid;
+    height: 24px;
+    width: 24px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: black;
+    color: azure;
+}
+p{
+    text-align: start;
+    width: 80%;
+    margin: 20px auto;
+}
